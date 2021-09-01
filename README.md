@@ -8,8 +8,10 @@ This repository contains my C++ implementation of ray marching and ray tracing. 
 
 Ray tracing is an effective method for rendering highly realistic images.  However, in my opinion it is significantly less interesting than.
 
- <img src="images/Ray_tracing.png" width="50%" align="center">
-
+<p align="center">
+ <img src="images/Ray_tracing.png" width="50%">
+</p>
+ 
 ## Ray Marching
 [Ray marching](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) also works by sending out rays from the camera for each pixel.  However, instead o calculation intersetions with objects, ray marching instead works by marching the ray along untill it its an object defined by a distance function.  Because objects are represented by mathematical signed distance functions, you're able to do with objects anything that you'd with with functions.  You can add them together, subtract one from another, and even lerp between them.  Furthermore, one can use the modulo function to create mirrors which reflect the scene about an axis, allowing for the creation of fractle scenes with minimal cmoputions.
 
