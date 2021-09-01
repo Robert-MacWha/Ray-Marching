@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\Projects\C++\Ray Tracing Tutorial\Ray Tracing Tutorial\x64\Debug\Ray Tracing Tutorial.exe</FullPath>
+      <FullPath>D:\Projects\C++\Ray-Marching\Ray-Marching\x64\Debug\Ray Tracing Tutorial.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

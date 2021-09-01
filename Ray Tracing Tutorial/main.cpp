@@ -42,7 +42,7 @@ int main() {
 	Loader loader = Loader();
 	Renderer renderer = Renderer();
 	TextureShader textureShader = TextureShader();
-	ComputeShader computeShader = ComputeShader("rayTracingShader.glsl");
+	ComputeShader computeShader = ComputeShader("rayMarchingShader.glsl");
 
 	//* CREATE MODEL
 	// create the texture
@@ -54,8 +54,8 @@ int main() {
 
 	//* CREATE THE CAMERA
 	Camera camera = Camera(90, (float)WIDTH / HEIGHT, 0.01, 100);
-	camera.rotate(-20, 0, 0);
-	camera.translate(0, 5, -1);
+	camera.rotate(0, 0, 0);
+	camera.translate(0, 0, -1);
 	
 	//* MAIN GAME LOOP
 	while (!DisplayManager::requestWindowClose()) {
@@ -68,6 +68,8 @@ int main() {
 			textureShader.reload();
 			computeShader.reload();
 		}
+
+		camera.rotate(0.05, 0.1, 0);
 
 		// set the compute shader as the active one
 		computeShader.use();
