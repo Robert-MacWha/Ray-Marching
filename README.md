@@ -23,4 +23,4 @@ Ray marching is in my oppinion much cooler than ray tracing.  Here are some gifs
  <img src="images/Fractals.gif" width="33%">
 </p>
 
-And here's a link to [procedurally generated 3d model](https://www.youtube.com/watch?v=8--5LwHRhjk&t=313s) (of an Anime Girl, of course) using ray marching.  It's cool, I tell you.
+And here's a link to [procedurally generated 3d model](https://www.youtube.com/watch?v=8--5LwHRhjk&t=313s) (of an Anime Girl, of course) using ray marching.  Disclaimer, I didn't make it, it's just cool.
