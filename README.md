@@ -12,6 +12,7 @@ Ray tracing is an effective method for rendering highly realistic images.  Howev
 
 Ray marching is in my oppinion much cooler than ray tracing.  Here are some gifs demonstrating what I was able to do with a very basic understanding of the concept.
 
+<img src="images/Union_and_seperation.png" width="100%">
 ![Alt Text](images/Union_and_seperation.png)
 ![Alt Text](images/Mixing.gif)
 ![Alt Text](images/Lerping.gif)
