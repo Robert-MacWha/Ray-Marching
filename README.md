@@ -11,6 +11,7 @@ Ray tracing is an effective method for rendering highly realistic images.  Howev
 [Ray marching](https://iquilezles.org/www/articles/distfunctions/distfunctions.htm) also works by sending out rays from the camera for each pixel.  However, instead o calculation intersetions with objects, ray marching instead works by marching the ray along untill it its an object defined by a distance function.  Because objects are represented by mathematical signed distance functions, you're able to do with objects anything that you'd with with functions.  You can add them together, subtract one from another, and even lerp between them.  Furthermore, one can use the modulo function to create mirrors which reflect the scene about an axis, allowing for the creation of fractle scenes with minimal cmoputions.
 
 Ray marching is in my oppinion much cooler than ray tracing.  Here are some gifs demonstrating what I was able to do with a very basic understanding of the concept.
+
 ![Alt Text](images/Union_and_seperation.png)
 ![Alt Text](images/Mixing.gif)
 ![Alt Text](images/Lerping.gif)
