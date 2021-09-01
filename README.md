@@ -1,4 +1,5 @@
 # Ray Marching & Ray Tracing
+ <img src="images/Union_and_seperation.png" width="100%">
  
 This repository contains my C++ implementation of ray marching and ray tracing.  Both shaders are written in GLSL and are my first foray into 3d graphics. Ray tracing and ray marching are both methods for rendering realistic 3D graphics based on the physics of real-world light.
 
@@ -17,6 +18,5 @@ Ray marching is in my oppinion much cooler than ray tracing.  Here are some gifs
  <img src="images/Lerping.gif" width="33%"> 
  <img src="images/Fractals.gif" width="33%">
 </p>
-<img src="images/Union_and_seperation.png" width="100%">
 
 And here's a link to [procedurally generated 3d model](https://www.youtube.com/watch?v=8--5LwHRhjk&t=313s) (of an Anime Girl, of course) using ray marching.  It's cool, I tell you.
