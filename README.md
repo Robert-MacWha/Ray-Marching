@@ -5,7 +5,7 @@ This repository contains my C++ implementation of ray marching and ray tracing. 
 
 ## Ray Tracing
 
-<img src="images/Ray_tracing.png" width="100px" align="left">
+<img src="images/Ray_tracing.png" width="400px" align="left">
 
 [Ray tracing](http://blog.three-eyed-games.com/2018/05/03/gpu-ray-tracing-in-unity-part-1/) works by sending out rays from the camera for each pixel.  Rays travel in a direction away from the camera untill intersecting with an object, where they can be reflected, refracted, or absorbed.  Depending on how the ray interacts with the object more rays might be created or the color of the pixel might be updated. 
 
