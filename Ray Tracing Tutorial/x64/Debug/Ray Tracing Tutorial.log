@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\Projects\C++\Ray Tracing Tutorial\Ray Tracing Tutorial\Ray Tracing Tutorial\main.cpp(56,61): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Projects\C++\Ray Tracing Tutorial\Ray Tracing Tutorial\Ray Tracing Tutorial\main.cpp(76,58): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+D:\Projects\C++\Ray Tracing Tutorial\Ray Tracing Tutorial\Ray Tracing Tutorial\main.cpp(78,61): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Ray Tracing Tutorial.vcxproj -> D:\Projects\C++\Ray Tracing Tutorial\Ray Tracing Tutorial\x64\Debug\Ray Tracing Tutorial.exe
