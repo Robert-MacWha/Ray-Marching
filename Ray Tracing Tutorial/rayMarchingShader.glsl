@@ -152,7 +152,6 @@ vec3 sdSymmetryY(vec3 p) { return vec3(p.x, abs(p.y), p.z); }
 vec3 sdSymmetryZ(vec3 p) { return vec3(p.xy, abs(p.z)); }
 vec3 sdSymmetryXZ(vec3 p) { return sdSymmetryX(sdSymmetryZ(p)); }
 
-
 // calculate the signed distance to the scene from a point
 vec4 sceneSDF(vec3 point) {
 	
