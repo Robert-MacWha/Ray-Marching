@@ -25,6 +25,6 @@ Ray marching is in my oppinion much cooler than ray tracing.  Here are some gifs
 Ray marching can also be used to generate very high-quality 3d Renders and, due to its ability to warp space using modulo functions, can do so extremely effective.  Using Monte Carlo approximations to solve for Lambert Diffusion and Phong specular reflections extreemly realistic results can be achieved.  Emmisions can also be implemented fairly simply which allows for these stunning results.
 
 <p float="left">
- <img src="https://github.com/Robert-MacWha/Ray-Marching/blob/0bb281c0009fbe7a3f0bb2cdad9fff7d0b596c79/images/Ray%20Marching%20Reflections%20demo.jpg" width="50%"> 
- <img src="https://github.com/Robert-MacWha/Ray-Marching/blob/0bb281c0009fbe7a3f0bb2cdad9fff7d0b596c79/images/Ray%20Marching%20Lights%20demo.jpg" width="50%"> 
+ <img src="https://github.com/Robert-MacWha/Ray-Marching/blob/0bb281c0009fbe7a3f0bb2cdad9fff7d0b596c79/images/Ray%20Marching%20Reflections%20demo.jpg" width="49%"> 
+ <img src="https://github.com/Robert-MacWha/Ray-Marching/blob/0bb281c0009fbe7a3f0bb2cdad9fff7d0b596c79/images/Ray%20Marching%20Lights%20demo.jpg" width="49%"> 
 </p>
