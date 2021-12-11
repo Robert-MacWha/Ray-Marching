@@ -17,9 +17,9 @@ Ray tracing is an effective method for rendering highly realistic images.  Howev
 Ray marching is in my oppinion much cooler than ray tracing.  Here are some gifs demonstrating what I was able to do with a very basic understanding of the concept.
 
 <p float="left">
- <img src="images/Mixing.gif" width="33%"> 
+ <img src="images/Mixing.gif" width="32%"> 
  <img src="images/Lerping.gif" width="32%"> 
- <img src="images/Fractals.gif" width="33%">
+ <img src="images/Fractals.gif" width="32%">
 </p>
 
 Ray marching can also be used to generate very high-quality 3d Renders and, due to its ability to warp space using modulo functions, can do so extremely effective.  Using Monte Carlo approximations to solve for Lambert Diffusion and Phong specular reflections extreemly realistic results can be achieved.  Emmisions can also be implemented fairly simply which allows for these stunning results.
