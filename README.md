@@ -18,7 +18,7 @@ Ray marching is in my oppinion much cooler than ray tracing.  Here are some gifs
 
 <p float="left">
  <img src="images/Mixing.gif" width="33%"> 
- <img src="images/Lerping.gif" width="33%"> 
+ <img src="images/Lerping.gif" width="32%"> 
  <img src="images/Fractals.gif" width="33%">
 </p>
 
