@@ -1,5 +1,5 @@
 # Ray Marching & Ray Tracing
- <img src="https://github.com/Robert-MacWha/Ray-Marching/blob/0bb281c0009fbe7a3f0bb2cdad9fff7d0b596c79/images/Ray%20Marching%20Lights%20demo.jpg" width="100%">
+ <img src="https://github.com/Robert-MacWha/Ray-Marching/blob/d1ee0a8d65e54a74830d68ec68e97899d4006830/images/Light%20Scene.PNG" width="100%">
  
 This repository contains my C++ implementation of ray marching and ray tracing.  Both shaders are written in GLSL and are my first foray into 3d graphics. Ray tracing and ray marching are both methods for rendering realistic 3D graphics based on the physics of real-world light.
 
